@@ -1,1 +1,1 @@
-# unimpaired.vim with line keymappings only
+unimpaired.vim with line keymappings only
